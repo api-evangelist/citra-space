@@ -64,5 +64,149 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Citra Space is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Citra Space provides modular sensing and software solutions for detecting, tracking, and analyzing space objects. The company offers hardware such as telescopes and antennas, edge‑deployed software for real‑time situational awareness, and an integrated platform delivering space domain awareness as a service. Based in Colorado Springs, Citra serves defense, commercial, and research customers with end‑to‑end space monitoring capabilities.
+
+**Areas:** Space Domain Awareness · Hardware · Software · Infrastructure · Platform · Application · Technology
+
+## Citra Space on APIs.io
+
+Everything profiled for Citra Space is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/citra-space/](https://apis.io/providers/citra-space/)** — or go straight to one of the APIs or properties below.
+
+### APIs (44)
+
+- [Citra Space API](https://apis.io/apis/citra-space/citra-space-api/) — Citra Space provides a developer portal with API reference and pricing information.
+- [Citra Space Access API](https://apis.io/apis/citra-space/citra-space-access-api/) — The access API from Citra Space — 9 operation(s) for access.
+- [Citra Space Account API](https://apis.io/apis/citra-space/citra-space-account-api/) — The account API from Citra Space — 5 operation(s) for account.
+- [Citra Space Admin API](https://apis.io/apis/citra-space/citra-space-admin-api/) — The admin API from Citra Space — 7 operation(s) for admin.
+- [Citra Space Alert Subscriptions API](https://apis.io/apis/citra-space/citra-space-alert-subscriptions-api/) — The alert_subscriptions API from Citra Space — 3 operation(s) for alert_subscriptions.
+- [Citra Space Alerts API](https://apis.io/apis/citra-space/citra-space-alerts-api/) — The alerts API from Citra Space — 5 operation(s) for alerts.
+- [Citra Space Antennas API](https://apis.io/apis/citra-space/citra-space-antennas-api/) — The antennas API from Citra Space — 5 operation(s) for antennas.
+- [Citra Space Auth API](https://apis.io/apis/citra-space/citra-space-auth-api/) — The auth API from Citra Space — 2 operation(s) for auth.
+- [Citra Space Chat API](https://apis.io/apis/citra-space/citra-space-chat-api/) — The chat API from Citra Space — 5 operation(s) for chat.
+- [Citra Space Citrascope Data API](https://apis.io/apis/citra-space/citra-space-citrascope-data-api/) — The citrascope-data API from Citra Space — 1 operation(s) for citrascope-data.
+- [Citra Space Collection Requests API](https://apis.io/apis/citra-space/citra-space-collection-requests-api/) — The collection-requests API from Citra Space — 3 operation(s) for collection-requests.
+- [Citra Space Devices API](https://apis.io/apis/citra-space/citra-space-devices-api/) — The devices API from Citra Space — 21 operation(s) for devices.
+- [Citra Space Edge API](https://apis.io/apis/citra-space/citra-space-edge-api/) — The Edge API from Citra Space — 3 operation(s) for edge.
+- [Citra Space Edge Node API](https://apis.io/apis/citra-space/citra-space-edge-node-api/) — The Edge Node API from Citra Space — 4 operation(s) for edge node.
+- [Citra Space Edge Sensor API](https://apis.io/apis/citra-space/citra-space-edge-sensor-api/) — The Edge Sensor API from Citra Space — 9 operation(s) for edge sensor.
+- [Citra Space Effectors API](https://apis.io/apis/citra-space/citra-space-effectors-api/) — The effectors API from Citra Space — 1 operation(s) for effectors.
+- [Citra Space Elsets API](https://apis.io/apis/citra-space/citra-space-elsets-api/) — The elsets API from Citra Space — 6 operation(s) for elsets.
+- [Citra Space Filters API](https://apis.io/apis/citra-space/citra-space-filters-api/) — The filters API from Citra Space — 2 operation(s) for filters.
+- [Citra Space Ground Stations API](https://apis.io/apis/citra-space/citra-space-ground-stations-api/) — The ground_stations API from Citra Space — 5 operation(s) for ground_stations.
+- [Citra Space Images API](https://apis.io/apis/citra-space/citra-space-images-api/) — The images API from Citra Space — 6 operation(s) for images.
+- [Citra Space Iq Data API](https://apis.io/apis/citra-space/citra-space-iq-data-api/) — The iq-data API from Citra Space — 5 operation(s) for iq-data.
+- [Citra Space Launch Definitions API](https://apis.io/apis/citra-space/citra-space-launch-definitions-api/) — The launch_definitions API from Citra Space — 4 operation(s) for launch_definitions.
+- [Citra Space Maneuvers API](https://apis.io/apis/citra-space/citra-space-maneuvers-api/) — The maneuvers API from Citra Space — 3 operation(s) for maneuvers.
+- [Citra Space Metrics API](https://apis.io/apis/citra-space/citra-space-metrics-api/) — The metrics API from Citra Space — 1 operation(s) for metrics.
+- [Citra Space Mission Effects API](https://apis.io/apis/citra-space/citra-space-mission-effects-api/) — The mission-effects API from Citra Space — 4 operation(s) for mission-effects.
+- [Citra Space Missions API](https://apis.io/apis/citra-space/citra-space-missions-api/) — The missions API from Citra Space — 14 operation(s) for missions.
+- [Citra Space Observations API](https://apis.io/apis/citra-space/citra-space-observations-api/) — The observations API from Citra Space — 13 operation(s) for observations.
+- [Citra Space Od API](https://apis.io/apis/citra-space/citra-space-od-api/) — The od API from Citra Space — 1 operation(s) for od.
+- [Citra Space Od Audit API](https://apis.io/apis/citra-space/citra-space-od-audit-api/) — The od-audit API from Citra Space — 4 operation(s) for od-audit.
+- [Citra Space Rf Captures API](https://apis.io/apis/citra-space/citra-space-rf-captures-api/) — The rf_captures API from Citra Space — 5 operation(s) for rf_captures.
+- [Citra Space Satellite Events API](https://apis.io/apis/citra-space/citra-space-satellite-events-api/) — The satellite-events API from Citra Space — 2 operation(s) for satellite-events.
+- [Citra Space Satellite Groups API](https://apis.io/apis/citra-space/citra-space-satellite-groups-api/) — The satellite_groups API from Citra Space — 7 operation(s) for satellite_groups.
+- [Citra Space Satellites API](https://apis.io/apis/citra-space/citra-space-satellites-api/) — The satellites API from Citra Space — 24 operation(s) for satellites.
+- [Citra Space Scenarios API](https://apis.io/apis/citra-space/citra-space-scenarios-api/) — The scenarios API from Citra Space — 19 operation(s) for scenarios.
+- [Citra Space Sensor Events API](https://apis.io/apis/citra-space/citra-space-sensor-events-api/) — The sensor-events API from Citra Space — 3 operation(s) for sensor-events.
+- [Citra Space Sensor Groups API](https://apis.io/apis/citra-space/citra-space-sensor-groups-api/) — The sensor_groups API from Citra Space — 10 operation(s) for sensor_groups.
+- [Citra Space Sensors API](https://apis.io/apis/citra-space/citra-space-sensors-api/) — The sensors API from Citra Space — 18 operation(s) for sensors.
+- [Citra Space Stats API](https://apis.io/apis/citra-space/citra-space-stats-api/) — The stats API from Citra Space — 1 operation(s) for stats.
+- [Citra Space Tasks API](https://apis.io/apis/citra-space/citra-space-tasks-api/) — The tasks API from Citra Space — 3 operation(s) for tasks.
+- [Citra Space Telescopes API](https://apis.io/apis/citra-space/citra-space-telescopes-api/) — The telescopes API from Citra Space — 5 operation(s) for telescopes.
+- [Citra Space threat assessment API](https://apis.io/apis/citra-space/citra-space-threat-assessment-api/) — The threat assessment API from Citra Space — 5 operation(s) for threat assessment.
+- [Citra Space Updates API](https://apis.io/apis/citra-space/citra-space-updates-api/) — The updates API from Citra Space — 7 operation(s) for updates.
+- [Citra Space Users API](https://apis.io/apis/citra-space/citra-space-users-api/) — The users API from Citra Space — 1 operation(s) for users.
+- [Citra Space Weather API](https://apis.io/apis/citra-space/citra-space-weather-api/) — The weather API from Citra Space — 1 operation(s) for weather.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Citra Space Context](https://apis.io/jsonld/citra-space/citra-space-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Citra Space API Rules](https://apis.io/rules/citra-space/citra-space-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Citra Space Authentication](https://apis.io/security/citra-space/citra-space-authentication/)
+- [Citra Space Domain Security](https://apis.io/security/citra-space/citra-space-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Citra Space Plans Pricing](https://apis.io/plans/citra-space/citra-space-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://citra.space/)
+- [Documentation](https://docs.citra.space/)
+- [Getting started](https://docs.citra.space/guides-and-tutorials/api-quickstart-guide.html)
+- [Pricing](https://citra.space/pricing)
+- [GitHub](https://github.com/citra-space)
+
+## API Evangelist rating
+
+**Kin Score 38.7** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 50.0 |
+| Contract governance | 22.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 35.1 |
+| Access clarity | 42.1 |
+
+**Agent readiness 26.4** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | verified |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | derived (partial credit) |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 16.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/citra-space/](https://apis.io/providers/citra-space/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Citra Space: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/citra-space/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
